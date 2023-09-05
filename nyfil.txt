@@ -2,3 +2,5 @@ detta är min första fil
 skapad på mitt Pi4 repo
 
 editerar en rad på Github
+
+lägger till en rad på datorn
